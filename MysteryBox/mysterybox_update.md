@@ -1,9 +1,1 @@
-{
-  "appName":"MysteryBox",
-  "versionName":"1.2.0",
-  "versionCode":10200,
-  "url":"http://www.baidu.com",
-  "msg":"1.bug修复",
-  "forceUpdate":false,
-  "time":"1596682858"
-}
+{"appName":"MysteryBox","versionName":"1.2.0","versionCode":10200,"url":"http://www.baidu.com","msg":"1.修复崩溃bug\n2.添加新功能\n3.制作一个Android最简洁的更新组件 感觉GitHub上的更新太臃肿，很多主题包，还有很多其实根本用不上的功能，导致体积很大.于是自己写了一个 ","forceUpdate":false,"time":"1596682858"}
