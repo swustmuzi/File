@@ -1,9 +1,1 @@
-{
-  "appName":"MysteryBox",
-  "versionName":"1.2.0",
-  "versionCode":10200,
-  "url":"http://www.baidu.com",
-  "msg":"1.bug修复",
-  "forceUpdate":false,
-  "time":"1596682858"
-}
+{"appName":"MysteryBox","versionName":"1.2.0","versionCode":10200,"url":"http://www.baidu.com","msg":"1.bug修复","forceUpdate":false,"time":"1596682858"}
